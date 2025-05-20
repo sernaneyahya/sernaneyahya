@@ -10,7 +10,6 @@
 
 - 🔭 I’m a **Fullstack Developer** passionate about modern web technologies.
 - 👀 I’m interested in building meaningful digital experiences, clean UI/UX, and scalable systems.
-- 🌱 I’m currently learning **Next.js**, **NestJS**, and diving deeper into **DevOps**.
 - 💞️ I’m looking to collaborate on **open source** projects and exciting **startup ideas**.
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/yahya-sernane-68393422a/?originalSubdomain=ma) or email at **sernaneyahya@gmail.com**.
 - 😄 Pronouns: He/Him
