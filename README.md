@@ -12,7 +12,7 @@
 - 👀 I’m interested in building meaningful digital experiences, clean UI/UX, and scalable systems.
 - 🌱 I’m currently learning **Next.js**, **NestJS**, and diving deeper into **DevOps**.
 - 💞️ I’m looking to collaborate on **open source** projects and exciting **startup ideas**.
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sernaneyahya) or email at **sernaneyahya@gmail.com**.
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/yahya-sernane-68393422a/?originalSubdomain=ma) or email at **sernaneyahya@gmail.com**.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I turn ☕ into code & bugs into features.
 
