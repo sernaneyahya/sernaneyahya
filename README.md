@@ -18,7 +18,6 @@
 ---
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sernaneyahya&show_icons=true&theme=radical" alt="Yahya's GitHub stats" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sernaneyahya&theme=radical" alt="GitHub Streak" /> 
 </p>
 
